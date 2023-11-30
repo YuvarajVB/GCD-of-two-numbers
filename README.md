@@ -40,7 +40,7 @@ def gcd():
 ```
 
 ## Output:
-![Screenshot 2023-11-29 080315](https://github.com/YuvarajVB/GCD-of-two-numbers/ass
+![gcd_output2a](https://github.com/YuvarajVB/GCD-of-two-numbers/assets/151488375/70fb998b-9bce-4e8a-bc8c-48af22c731b7)
 
 
 
