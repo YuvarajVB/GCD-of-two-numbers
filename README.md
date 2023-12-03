@@ -32,7 +32,7 @@ def gcd():
 ```
 
 ## Output:
-![Uploading image.png…]()
+![image](https://github.com/YuvarajVB/GCD-of-two-numbers/assets/151488375/939d441e-2249-4c27-b8af-5c7386a300ec)
 
 
 
